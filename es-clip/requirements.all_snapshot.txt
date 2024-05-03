@@ -1,6 +1,6 @@
 ftfy==6.0.3
 regex==2021.8.28
-tqdm==4.62.2
+tqdm==4.66.3
 numpy==1.22.0
 Pillow==10.2.0
 torch==1.13.1
